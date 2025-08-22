@@ -143,3 +143,4 @@ Aplikacja zawiera linki do pomocnych konwerterów:
 
 MIT License - możesz swobodnie używać, modyfikować i dystrybuować.
 
+Link do aplikacji online: [https://qhpqfd.csb.app/](https://qhpqfd.csb.app/)

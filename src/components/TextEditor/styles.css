@@ -1,0 +1,50 @@
+body {
+  background-color: #3d3d3d;
+  color: #ffffff;
+}
+.contentHtml {
+  max-width: 900px;
+  width: 100%;
+  margin: auto;
+}
+
+.l-box,
+.r-box {
+  /* overflow: scroll; */
+  height: 60vh;
+  position: relative;
+  padding: 0;
+}
+.l-box {
+  height: 50vh;
+}
+.copyButton {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0px;
+  float: right;
+}
+.keyValue-box {
+  justify-content: space-evenly;
+  max-width: 900px;
+  margin: auto;
+}
+.ql-toolbar.ql-snow {
+  position: sticky;
+  background-color: #ffffff;
+  z-index: 100;
+}
+.quill {
+  height: 100%;
+}
+.ql-editor {
+  min-height: 50vh;
+  background-color: #ffffff;
+  color: #000000;
+}
+p {
+  font-size: 11pt !important;
+}
+.ql-size-large {
+  font-size: 14pt !important;
+}
